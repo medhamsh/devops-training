@@ -1,0 +1,9 @@
+To print date
+    make date
+
+To list files
+    make list-files
+
+
+To run train
+    make run-train
